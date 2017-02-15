@@ -1,21 +1,21 @@
 Yusuf's Unity Playground
 A lifetime ago, I tried to do things with unity. Did not went well...
 
-[cubetrip](/cubetrip)
+[cubetrip](cubetrip)
 
 
-[cubetrip2](/cubetrip2)
+[cubetrip2](cubetrip2)
 
 
-[hearmatch](/hearmatch)	
+[hearmatch](hearmatch)	
 
 
-[roguelike](/roguelike)
+[roguelike](roguelike)
 
 
-[spaceshooter](/spaceshooter)
+[spaceshooter](spaceshooter)
 
 
-[survivalshooter](/survivalshooter)
+[survivalshooter](survivalshooter)
 
 
